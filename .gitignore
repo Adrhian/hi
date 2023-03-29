@@ -1,23 +1,52 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+<HTML>
+<head>
+<title>adrhianaclan<title>
+    
+<sript type="text/javascript">
+flag=1
+function f1()
+{
+var name= prompt();
+if name == "" ||Name == null) {
+alert("please enter your name");
+.}else{
+alert("Hi + name + Good evening!");
+} alert("How was your day?")
+  alert("was it good?")
+  alert("if ever you need me, I'm here.Always")
+  alert("Take care everyday")
+  alert("Be safe out there")
+  alert("I'm always proud of you")
+  }
+  function f()
+  {
+  if (flag==1)
+        {
+          Bn.style.top=400
+          Bn.style.left=300
+          flag=2
+        }
+        else if(flag==2)
+        {
+          Bn.style.top=400
+          Bn.styls.left=50
+          flag=3
+        }
+        else if(flag==3)
+        {
+          Bn.style.top=370
+          Bn.style.top=166
+          flag= ()
+        }
+}
+</script>
+</head>
+<body>
+<h1>hey! wanna grab some ice cream/scramble??</h1>
+<img src="https://media.tenor.com/PXWh80tfKXIAAAAM/cute-fingers-fixed-cat.gif">
+<h1 style="#">can we?!</h1>
+<div Id="By" style="position:absolute; left:64px; top:370px; width:210px"height"200"/>
+<input type="button" value:"YES" oneclick="f1()">
+</div>
+<div ID="Bn" style="position:absolute; left:166px; top:370px; width:210px;
+<input type="button" value:"NO" onMouseOver="f()"/></div>
